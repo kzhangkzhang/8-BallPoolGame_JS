@@ -1,0 +1,8 @@
+# Kevin's own docs
+*.docx
+
+# backup
+/backup
+
+# Author's own solution
+/AuthorSolution
